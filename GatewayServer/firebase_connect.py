@@ -108,8 +108,8 @@ def handle_message(data):
 
 #########################################################
 # Adafruit IO credentials
-username = "ThuanKhang"
-api_key = "aio_kryr46NwnMtVJ0zg5XpZ9zjO9OhC"
+username = ""
+api_key = ""
 
 # MQTT broker address and port
 broker_address = "io.adafruit.com"
